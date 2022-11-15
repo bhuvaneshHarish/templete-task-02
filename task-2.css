@@ -1,0 +1,27 @@
+.main{
+	text-align:left;
+	width:23%;
+	margin-right:20px;
+    font-size:12px;	
+}
+.container{
+	width:80%;
+	margin:150px auto;
+	display:flex;
+	font-family:Arial;
+    padding:10px;	
+}
+.box-1{
+	background-color:white;
+	padding:20px;
+	border-radius:10px; 
+	box-shadow:0 0 30px #f5f6fa;	
+}
+i{
+	font-size:25px;
+	color:#106eea;	
+	
+}
+p{
+	line-height:20px;
+}
